@@ -1,7 +1,8 @@
 
-adding merge related data
+
+
+DemoPullMerge One Data:
+Changes are made for mergeone repository
 
 
 
-Merge two should merge with one
-Mergeone changes 
