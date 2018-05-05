@@ -4,3 +4,14 @@ adding from Master repository
 =======
 adding again fom branch-vk
 
+
+
+
+function sum_master (int a, int b){
+
+		return a + b;
+		}
+
+
+
+
