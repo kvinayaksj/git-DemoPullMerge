@@ -1,7 +1,7 @@
 Adding the contents to check the fast farward merge
 
 adding from Master repository
-=======
+
 adding again fom branch-vk
 
 
@@ -20,5 +20,22 @@ function Multiply_master{int a, int b)
   return x*y;
 
   }
+
+
+
+adding again fom branch-vk
+
+function sum_branchvk(int x, int y)
+{
+
+	return x + y;
+}
+
+function multiply_branchvk(int x, int y)
+{
+
+	returrn x*y;
+
+}
 
 
