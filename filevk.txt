@@ -8,3 +8,11 @@ function sum_branchvk(int x, int y)
 
 	return x + y;
 }
+
+function multiply_branchvk(int x, int y)
+{
+
+	returrn x*y;
+
+}
+
