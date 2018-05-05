@@ -14,4 +14,11 @@ function sum_master (int a, int b){
 
 
 
+function Multiply_master{int a, int b)
+{
+
+  return x*y;
+
+  }
+
 
